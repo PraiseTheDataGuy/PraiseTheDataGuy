@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PraiseTheDataGuy
+- 👋 Hi, I’m @PraiseTheDataLegend
 - 👀 I’m interested in Data and Sport Analytics
 - 🌱 I’m currently learning how to use Python for Sport Analytics
 - 💞️ I’m looking to collaborate with great minds with similar ambitions to learn more 
